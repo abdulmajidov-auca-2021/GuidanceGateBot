@@ -14,5 +14,5 @@ Connects users with experienced professionals for tailored advice and guidance.
 **Resource Hub:** 
 Provides access to educational materials, links to scholarships, courses, internships, and more.
 
-**Cross-Platform** 
-Accessibility: Available on multiple platforms for ease of access anytime, anywhere.
+**Cross-Platform Accessibility:** 
+Available on multiple platforms for ease of access anytime, anywhere.
